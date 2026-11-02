@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Tres archivos para que Claude Code te responda siempre en español y sin paja: el ajuste `language`, el estilo de salida Concise, una regla de idioma para CLAUDE.md contra la deriva al inglés (issue #96326) y un estilo propio opcional, «Español directo».
 
 La explicación de cada pieza y sus límites está en la receta:
